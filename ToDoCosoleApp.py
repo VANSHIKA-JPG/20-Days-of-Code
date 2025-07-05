@@ -1,4 +1,4 @@
-### TO DO  CONSOLE APP
+### TO DO  CONSOLE APPP 
 print("--- TO-DO-LIST APP ---")
 print("1. Add New Tasks \n2. View Current Tasks \n3. Mark Tasks as done \n4. Delete Taks \n5. Exit")
 tasks=[]
