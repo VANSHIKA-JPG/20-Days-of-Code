@@ -4,7 +4,7 @@ This is my first GitHub project!
 
 ## 👩‍💻 About Me
 - **Name:** Vanshika Bhutani  
-- **Age:** 20  
+- **Age:** 19
 - **Interests:** Coding, Reading, Dance 
 
 ## 🧾 What this project does
